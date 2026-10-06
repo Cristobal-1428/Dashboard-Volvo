@@ -1,0 +1,2 @@
+cd "C:\Users\a561755\Desktop\Academia Script Patricio"
+python -m PyInstaller CertificadosVolvoAuto.spec
